@@ -18,9 +18,9 @@ displayURL="http://example.com/" #optional
 
 logoFile="examplemod.png" #optional
 
-credits="Thanks for this example mod goes to Java" #optional
+credits="juergi" #optional
 
-authors="Love, Cheese and small house plants" #optional
+authors="Benini Banani and Albert Arthur" #optional
 
 description='''
 Moin Meister!
